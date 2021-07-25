@@ -1,7 +1,11 @@
 # plddt2csv
-Extract the plddt value of Alphafold2 from .pkl to .csv & .pdb file
+Extract the plddt value of Alphafold2 from .pkl to .csv & .pdb file.
 
-This program was only checked by my condition. (centos7, python3)
+This program was only checked by my environment. (centos7, python3)
+
+Instruction movie was uploaded on Youtube.
+
+https://youtu.be/0ozOPnC6IWk
 
 --------------
 How to Use
