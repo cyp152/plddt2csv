@@ -5,6 +5,10 @@ This program was only checked by my environment. (centos7, python3)
 
 Introduction movie was upload on Youtube.
 
+long_ver (plddt_align.py)
+https://youtu.be/itNIG9acDM8
+
+short_ver (plddt2csv.py)
 https://youtu.be/0ozOPnC6IWk
 
 Update information
