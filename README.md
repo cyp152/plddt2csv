@@ -5,6 +5,12 @@ This program was only checked by my environment. (centos7, python3)
 
 Introduction movie was upload on Youtube.
 
+Japanese ver. (plddt_align.py)
+
+https://youtu.be/qiw5DbzZcUE
+
+No sound ver. (plddt2csv.py)
+
 https://youtu.be/0ozOPnC6IWk
 
 Update information
